@@ -1,3 +1,5 @@
+package SimpleStackSolution;
+
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.ArrayList;
@@ -18,7 +20,6 @@ public class SimpleStack {
     private ArrayList<Integer> a = new ArrayList<Integer>();
     int pos = 0;
     private ReentrantLock lock = new ReentrantLock();
-
     private Condition condition = lock.newCondition();
     
     // Get the last 'job' that was added

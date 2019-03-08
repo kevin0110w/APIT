@@ -1,3 +1,5 @@
+package SimpleStackSolution;
+
 import java.util.Random;
 
 /*
