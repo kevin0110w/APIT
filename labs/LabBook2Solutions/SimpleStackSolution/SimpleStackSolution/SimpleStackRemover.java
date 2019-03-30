@@ -1,3 +1,5 @@
+package SimpleStackSolution;
+
 /*
     Object that can be placed on a thread to remove jobs from the 
     stack and then 'run' them (i.e. sleep for their duration).

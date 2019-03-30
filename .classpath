@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="coursework/mySolution"/>
+	<classpathentry kind="src" path="distributed/code/DateServer"/>
+	<classpathentry kind="src" path="distributed/code/MessageServer"/>
+	<classpathentry kind="src" path="distributed/code/SimpleServer"/>
+	<classpathentry kind="src" path="distributed/code/SwingChat"/>
+	<classpathentry kind="src" path="distributed/code/WalkyTalky"/>
+	<classpathentry excluding="Solution/" kind="src" path="distributed/Lab6"/>
+	<classpathentry kind="src" path="distributed/Lab6/Solution"/>
+	<classpathentry excluding="LabBook2Solutions/SwingCounter/|LabBook2Solutions/SimpleStack/|Solutions/Week5a/|Solutions/Week7/|LabBook2Solutions/Primes/|Solutions/Week6/|Ciphers/|Solutions/Week5/|LabBook2Solutions/SimpleStackSolution/|Solutions/Week10/|Solutions/Week4/|Solutions/Week3/|LabBook2Solutions/MaxFinder/|Solutions/Week9/" kind="src" path="labs"/>
+	<classpathentry kind="src" path="labs/Ciphers"/>
+	<classpathentry kind="src" path="labs/LabBook2Solutions/MaxFinder"/>
+	<classpathentry kind="src" path="labs/LabBook2Solutions/Primes"/>
+	<classpathentry kind="src" path="labs/LabBook2Solutions/SimpleStack"/>
+	<classpathentry kind="src" path="labs/LabBook2Solutions/SimpleStackSolution"/>
+	<classpathentry kind="src" path="labs/LabBook2Solutions/SwingCounter"/>
+	<classpathentry kind="src" path="labs/Solutions/Week10"/>
+	<classpathentry kind="src" path="labs/Solutions/Week3"/>
+	<classpathentry kind="src" path="labs/Solutions/Week4"/>
+	<classpathentry kind="src" path="labs/Solutions/Week5"/>
+	<classpathentry kind="src" path="labs/Solutions/Week5a"/>
+	<classpathentry kind="src" path="labs/Solutions/Week6"/>
+	<classpathentry kind="src" path="labs/Solutions/Week7"/>
+	<classpathentry kind="src" path="labs/Solutions/Week9"/>
+	<classpathentry excluding="FileSystem/|Composite2/|Files2/|HierarchicalClustering/" kind="src" path="patterns/code/Composite"/>
+	<classpathentry kind="src" path="patterns/code/Composite/Composite2"/>
+	<classpathentry kind="src" path="patterns/code/Composite/Files2"/>
+	<classpathentry kind="src" path="patterns/code/Composite/FileSystem"/>
+	<classpathentry kind="src" path="patterns/code/Composite/HierarchicalClustering"/>
+	<classpathentry kind="src" path="patterns/code/decorator"/>
+	<classpathentry kind="src" path="patterns/code/Iterator"/>
+	<classpathentry kind="src" path="patterns/code/observer"/>
+	<classpathentry kind="src" path="patterns/code/SimpleComposite"/>
+	<classpathentry kind="src" path="patterns/code/visitor"/>
+	<classpathentry excluding="MyMath/|Final/|Immutable/|CallByReference/|testingCode/|Dictionary/|InterfaceInheritance/|Pets/|testingCode/threadexample/" kind="src" path="recap/code"/>
+	<classpathentry kind="src" path="recap/code/CallByReference"/>
+	<classpathentry kind="src" path="recap/code/Dictionary"/>
+	<classpathentry kind="src" path="recap/code/Final"/>
+	<classpathentry kind="src" path="recap/code/Immutable"/>
+	<classpathentry kind="src" path="recap/code/InterfaceInheritance"/>
+	<classpathentry kind="src" path="recap/code/MyMath"/>
+	<classpathentry kind="src" path="recap/code/Pets"/>
+	<classpathentry excluding="threadexample/" kind="src" path="recap/code/testingCode"/>
+	<classpathentry kind="src" path="recap/code/testingCode/threadexample"/>
+	<classpathentry kind="src" path="recap/hashing"/>
+	<classpathentry excluding="Signal/|SwingThreads/GameOfLife/|Colonisation/|SwingThreads/Primes/Skeleton/|SwingThreads/Primes/|WaiterNotifier/|MaxFinder/|Sorting/|SwingThreads/|BubbleSortAnimation/|CodeForMoodle/|CounterExample/|SwingMotivation/|MergeSort/" kind="src" path="threading/code"/>
+	<classpathentry kind="src" path="threading/code/BubbleSortAnimation"/>
+	<classpathentry kind="src" path="threading/code/CodeForMoodle"/>
+	<classpathentry kind="src" path="threading/code/Colonisation"/>
+	<classpathentry kind="src" path="threading/code/CounterExample"/>
+	<classpathentry kind="src" path="threading/code/MaxFinder"/>
+	<classpathentry kind="src" path="threading/code/MergeSort"/>
+	<classpathentry kind="src" path="threading/code/Signal"/>
+	<classpathentry kind="src" path="threading/code/Sorting"/>
+	<classpathentry kind="src" path="threading/code/SwingMotivation"/>
+	<classpathentry excluding="GameOfLife/|Primes/Skeleton/|Primes/" kind="src" path="threading/code/SwingThreads"/>
+	<classpathentry kind="src" path="threading/code/SwingThreads/GameOfLife"/>
+	<classpathentry excluding="Skeleton/" kind="src" path="threading/code/SwingThreads/Primes"/>
+	<classpathentry kind="src" path="threading/code/SwingThreads/Primes/Skeleton"/>
+	<classpathentry kind="src" path="threading/code/WaiterNotifier"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
